@@ -1,0 +1,31 @@
+                        Volatility Volatility relative to output  \
+Output                    1.755679                           1.0   
+Consumption_total         1.960776                      1.116819   
+Consumption_durables      9.718845                      5.535662   
+Consumption_nondurables   2.074244                      1.181449   
+Investment                5.832102                       3.32185   
+Capital                   2.278411                      1.297738   
+Avg_hours_worked          1.705372                      0.971346   
+Total_hours_worked        1.470469                       0.83755   
+Employment                 1.46942                      0.836953   
+Real_wages                0.188706                      0.107483   
+Government_consumption    1.703326                      0.970181   
+Money                     1.800391                      1.025467   
+Price_level               0.861827                       0.49088   
+Inflation                12.189639                      6.942978  
+
+                        Correlation with output Peak quarter  
+Output                                      1.0            0  
+Consumption_total                      0.882999            0  
+Consumption_durables                    0.88975            0  
+Consumption_nondurables                0.842745            0  
+Investment                             0.803059           -1  
+Capital                                 0.19884            2  
+Avg_hours_worked                      -0.016077            2  
+Total_hours_worked                     0.398233            0  
+Employment                             0.398703            0  
+Real_wages                             0.340155           -3  
+Government_consumption                 0.061124            3  
+Money                                  0.432256           -2  
+Price_level                            0.259862           -3  
+Inflation                              0.327711           -1  
